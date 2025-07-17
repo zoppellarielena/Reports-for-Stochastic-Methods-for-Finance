@@ -1,6 +1,6 @@
 # Financial Mathematics Reports
-This repository contains six reports covering various topics related to financial mathematics. The reports were written in Spring 2023 for the course 
-*Stochastic Methods for Finance* at the University of Padova (academic year 2022-2023).
+This repository contains six reports covering various topics related to financial mathematics. The reports were written for the course 
+*Stochastic Methods for Finance* at the University of Padova.
 
 The reports delve into the following topics:
 1. Pricing a Call Option using the Binomial Model, specifically analyzing real data from the Walt Disney Company.
